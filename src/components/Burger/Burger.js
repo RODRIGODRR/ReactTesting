@@ -4,6 +4,7 @@ import classes from './Burger.module.css';
 import BurgerIngredient from './BurgerIngredient/BurgerIngredient';
 
 // test
+// estranho 2
 const burger = (props) => {
     return (
         <div className={classes.Burger}>
