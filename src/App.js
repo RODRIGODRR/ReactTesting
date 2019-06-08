@@ -6,10 +6,7 @@ import BurgerBuilder from './containers/BurgerBuilder/BurgerBuilder';
 class App extends Component {
   render() {
     return (
-      <div>
-        {/* test git lens */}
-        {/* test git lens 2 */}
-        {/* test git lens 3 */}
+      <div>        
         <Layout>
           <BurgerBuilder />
         </Layout>
