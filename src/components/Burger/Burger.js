@@ -4,6 +4,7 @@ import classes from './Burger.module.css';
 import BurgerIngredient from './BurgerIngredient/BurgerIngredient';
 
 // test
+// aqui é para dar merge
 const burger = (props) => {
     return (
         <div className={classes.Burger}>
