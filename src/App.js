@@ -9,6 +9,7 @@ class App extends Component {
       <div>
         {/* test git lens */}
         {/* test git lens 2 */}
+        {/* test git lens 3 */}
         <Layout>
           <BurgerBuilder />
         </Layout>
