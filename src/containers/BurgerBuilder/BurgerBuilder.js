@@ -6,8 +6,6 @@ import Burger from '../../components/Burger/Burger';
 class BurgerBuilder extends Component{
     render(){
         return(
-            // fuck
-            // fuck 2
             <Aux>
                 <Burger />
                 <div>Build Controls</div>
