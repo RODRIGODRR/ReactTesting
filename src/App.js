@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 import Layout from './components/Layout/Layout';
 import BurgerBuilder from './containers/BurgerBuilder/BurgerBuilder';
 
+// novos testes merge 1
 class App extends Component {
   render() {
     return (
@@ -14,5 +15,6 @@ class App extends Component {
     );
   }
 }
+// novos testes merge 1
 
 export default App;
